@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.right{
+    display: flex;
+    align-items: baseline;  
+    flex-direction: row;
+    align-self: flex-end;
+    margin-left: 10px;
+    
+}
+.visit{
+    margin-bottom: 3px;
+    align-items: baseline;  
+    font-size: 15px;
+
+
+}
+.address{
+    font-size: 12px;
+}

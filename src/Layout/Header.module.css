@@ -1,0 +1,34 @@
+/* 헤더 전체 */
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header > .left > .title{
+
+    align-items: flex-end; 
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+
+
+.left {
+    color: black;
+    display: flex;
+    align-items: flex-end;  
+    flex-direction: row;
+}
+
+.right{
+    display: flex;
+    align-items: baseline;  
+    flex-direction: row;
+    align-self: flex-end;
+    margin-left: 10px;
+    
+}
+
+.header > .right > .welcome{
+    padding-right: 10px;
+}
