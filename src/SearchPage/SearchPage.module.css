@@ -1,0 +1,36 @@
+.title{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 78px;
+}
+.holder{
+    display: grid;
+    justify-content: center;
+
+    
+}
+.holder > .holder1{
+    font-size: 15px;
+    margin: 19px;
+    width: 616px;
+    height: 58.79px;
+    color: #F7F7F7;
+}
+.holder > .holder2{
+    font-size: 15px;
+    margin: 19px;
+    width: 616px;
+    height: 58.79px;
+    color: #F7F7F7;
+}
+.holder > .holder3{
+    font-size: 15px;
+    margin: 19px;
+    width: 616px;
+    height: 58.79px;
+    color: #F7F7F7;
+}
+.holder > button{
+    width: 143px;
+    height: 34px;
+}

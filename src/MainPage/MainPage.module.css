@@ -1,0 +1,24 @@
+.main{
+    display: grid;
+    place-items: center;    
+
+}
+.main > .empty{
+    margin-top: 134.5px;
+}
+.main > .button{
+    width: 740px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 72px;
+    margin-bottom: 100px;
+
+}
+.mainunder{
+    background-color: #F7F7F7;
+    display: flex;
+
+}
+
+.mainunder{
+}
