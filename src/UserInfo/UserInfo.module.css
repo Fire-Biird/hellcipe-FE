@@ -1,0 +1,55 @@
+.mainContainer {
+}
+/* 위에 한줄정보*/
+.topinfo {
+    display : flex;
+    justify-content : space-evenly;
+    margin-bottom : 73px;
+    margin-top: 119px;
+}
+/* 위에서 왼쪽 */
+.welcomeinfo{
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+    background-color : #F7F7F7;
+    width : 870px;
+    height : 111px
+    
+}
+/* 글자 좌우마진 */
+.welcomeinfo > p{
+    font-size: 31px;
+    margin-left: 33px;
+    margin-right: 33px;
+}
+/* 비밀번호 변경칸 */
+.changepwd{
+    background-color : red;
+    width : 870px;
+    height : 111px
+
+}
+/* 밑에 정보 */
+.underinfo {
+  display: flex;
+  justify-content: space-evenly;
+}
+/* 북마크 */
+.bookmark {
+  background-color: aqua;
+  width: 540px;
+  height: 645px;
+}
+/* 레시피 */
+.recipe {
+  background-color: blue;
+  width: 540px;
+  height: 645px;
+}
+/* 그래프 */
+.graph {
+  background-color: red;
+  width: 540px;
+  height: 645px;
+}

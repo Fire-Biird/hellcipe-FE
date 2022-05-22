@@ -17,6 +17,10 @@ function App() {
       <MainPage/>
       <Footer/>
       <SearchPage/>
+      <RecipePage/>
+      <SignUp/>
+      <Login/>
+      <UserInfo/>
     </>
   );
 }

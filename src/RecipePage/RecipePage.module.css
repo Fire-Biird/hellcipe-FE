@@ -1,0 +1,23 @@
+.mainContainer{
+    display : flex;
+    justify-content: space-evenly;
+    margin-top: 89px;
+
+
+}
+
+.left{
+    display : flex;
+    width : 888px;
+    height : 890px;
+    background-color: rgb(178, 178, 197);
+    padding : 29px;
+}
+
+.right{
+    width : 888px;
+    height : 890px;
+    padding : 29px;
+    background-color: rgb(178, 178, 197);
+}
+

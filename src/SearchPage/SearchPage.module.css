@@ -5,8 +5,7 @@
 }
 .holder{
     display: grid;
-    justify-content: center;
-
+    justify-content: center; 
     
 }
 .holder > .holder1{
@@ -31,6 +30,7 @@
     color: #F7F7F7;
 }
 .holder > button{
+    justify-self: center;
     width: 143px;
     height: 34px;
 }

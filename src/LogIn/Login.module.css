@@ -1,0 +1,38 @@
+
+.mainContainer > .title> .hell > .icon{
+    width: 71px;
+    height: 71px;
+}
+.mainContainer > .title{
+    display: flex;
+    justify-content: center;
+    font-size: 61px;
+    margin-bottom: 131px;
+}
+.mainContainer > .holder{
+        display: grid;
+        justify-content: center;    
+}
+
+.mainContainer > .holder > .btn{
+    
+    display : flex;
+    justify-content: space-between;
+    align-items : flex-end;
+    width: 450px;
+    height: 46px;
+}
+.holder > .holder1{
+    font-size: 14px;
+    text-align : start; 
+    width: 450px;
+    height: 64px;
+    margin-bottom: 66px;
+}
+.holder > .holder2{
+    font-size: 14px;
+    text-align : start; 
+    width: 450px;
+    height: 64px;
+    margin-bottom: 66px;
+}
