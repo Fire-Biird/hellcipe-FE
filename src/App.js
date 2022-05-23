@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Link, Route, BrowserRouter as Router } from "react-router-dom";
 import Header from "./Layout/Header";
 import Login from "./LogIn/Login";
 import MainPage from "./MainPage/MainPage";
