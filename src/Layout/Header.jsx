@@ -1,8 +1,15 @@
-import React from "react";
+/* eslint-disable */
+
+import React, { useState } from "react";
 import Hellicon from "../Component/hellicon.svg";
 import classes from "./Header.module.css";
 
+
 const Header = () => {
+
+  // useState로 로그인시 바뀌는거 이름 지바뀌게하면될것같음
+  const [userID, setUserID] = useState({ })
+
   return (
     <>
       <div className= {classes.header}>
